@@ -1,0 +1,9 @@
+{
+    "name": "Jefe",
+    "description": "A cold, dark & frosty theme.",
+    "version": "1.0",
+    "author": "Eaa",
+    "theme": "Jefe.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
